@@ -1,0 +1,34 @@
+[
+  {
+    "研究区域": {
+      "地名": "Wenchuan County,Sichuan,China;Longmen Shan fault,China;Sichuan basin,China;Tibetan plateau,China",
+      "经纬度": "31.0,103.4;31.5,103.7;30.5,104.5;33.0,88.0"
+    },
+    "数据来源": {
+      "来源": "China Earthquake Administration regional broadband seismic network",
+      "覆盖时间": "~50 days before 2008-05-12 to ~50 days after 2008-05-12"
+    },
+    "核心事件": {
+      "事件": "2008 Mw 7.9 Wenchuan earthquake",
+      "时间": "2008-05-12",
+      "地点": "Wenchuan County,Sichuan,China"
+    },
+    "研究方法": [
+      "ambient seismic noise cross-correlation",
+      "Rayleigh-wave group-velocity tomography",
+      "differential travel-time inversion",
+      "causal & acausal delay-time comparison to exclude clock errors"
+    ],
+    "频率范围": [
+      "0.04-0.1 Hz (10-25 s Rayleigh waves)"
+    ],
+    "研究结论": {
+      "地壳速度变化": "0.4 % group-velocity decrease in an ~250 km × 50 km zone NW of the Longmen Shan fault at 10-25 km depth",
+      "主要机制": "coseismic stress drop (~3 MPa) increases fracture density, reducing seismic velocity",
+      "次要机制": "minor shallow damage (<1 km) contributes <0.05 % velocity change and is negligible"
+    },
+    "结论的不确定性": {
+      "讨论": "spatial resolution limited by station geometry; 50-day postseismic stacking may underestimate full coseismic drop due to early healing; source distribution heterogeneity ruled out by causal-acausal symmetry check"
+    }
+  }
+]
